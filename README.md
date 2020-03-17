@@ -28,7 +28,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributions
 
-Bug reports and pull requests are welcome on [GitHub](https://github.com/[USERNAME]/is_pangram).
+Bug reports and pull requests are welcome on [GitHub](https://github.com/scratchcarded/is_pangram).
 
 
 ## License
@@ -37,4 +37,4 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 ## Code of Conduct
 
-Everyone interacting in the IsPangram project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/is_pangram/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the IsPangram project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/scratchcarded/is_pangram/blob/master/CODE_OF_CONDUCT.md).
