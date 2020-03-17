@@ -19,3 +19,4 @@ Gem::Specification.new do |spec|
   else
    raise "RubyGems 2.0 or newer is required to protect against public gem pushes."
   end
+end
