@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "is_pangram scertains if a word/phrase/sentence is a pangram (contains each letter of the English alphabet at least once)."
   spec.description   = "This RubyGem contains a boolean method 'is_pangram?', which takes a string as an argument. The method returns true if the argument is a pangram (contains each letter of the English alphabet at least once) and false if not."
-  spec.homepage      = "https://github.com/scratchcard/is_pangram/blob/master/is_pangram.gemspec."
+  spec.homepage      = "https://github.com/scratchcarded/is_pangram"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
