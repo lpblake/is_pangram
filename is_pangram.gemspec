@@ -3,8 +3,8 @@ require_relative 'lib/is_pangram/version'
 Gem::Specification.new do |spec|
   spec.name          = "is_pangram"
   spec.version       = IsPangram::VERSION
-  spec.authors       = ["Wren Wood-Blake"]
-  spec.email         = ["wrenwoodblake@outlook.com"]
+  spec.authors       = ["Lily Blake"]
+  spec.email         = ["lilyblake@outlook.com"]
 
   spec.summary       = "is_pangram scertains if a word/phrase/sentence is a pangram (contains each letter of the English alphabet at least once)."
   spec.description   = "This RubyGem contains a boolean method 'is_pangram?', which takes a string as an argument. The method returns true if the argument is a pangram (contains each letter of the English alphabet at least once) and false if not."
